@@ -1,0 +1,28 @@
+_repo: Australian-Heroes-and-Adventurers_40003
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pyke, William T. (William Thomas)
+    alias: Pyke, William Thomas
+    gutenberg_agent_id: '40359'
+    url: http://www.gutenberg.org/2009/agents/40359
+description: ''
+gutenberg_issued: '2012-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gold mines and mining -- Australia'
+- !lcsh 'Burke and Wills Expedition, (1860-1861)'
+- !lcc 'DU'
+- !lcsh 'Australia -- History -- 1788-1900'
+tableOfContents: Burke and Wills, two heroes of exploration -- Old times on the gold-fields.
+title: Australian Heroes and Adventurers
+url: http://www.gutenberg.org/ebooks/40003
