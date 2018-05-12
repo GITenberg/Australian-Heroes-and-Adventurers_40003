@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40359'
     url: http://www.gutenberg.org/2009/agents/40359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40003#Australian-Heroes-and-Adventurers
 gutenberg_issued: '2012-06-15'
 gutenberg_type: Text
 identifiers:
